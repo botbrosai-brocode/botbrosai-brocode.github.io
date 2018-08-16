@@ -12,7 +12,6 @@
 
 Here's a list of pointers on how to write and discuss **pull requests**.
 
-
 #### Two Approvals
 * Allows the team to prevent merging a PR unless it's approved.
 * Helps to spread the knowledge of codebase, encourage cross-pollination of team practices between members

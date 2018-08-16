@@ -1,7 +1,6 @@
 * Workflow
 
   * [README.md](writing-readme.md)
-  * [GitFlow](git-flow.md)
   * [Pull Requests](pull-requests.md)
   * [Code Review](code-review.md)
 

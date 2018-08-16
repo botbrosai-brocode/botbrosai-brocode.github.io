@@ -2,9 +2,11 @@
 
 > Of course! We need a guideline to write our projects' guideline 
 
-### Overview
+## Overview
 
-A README file contains information about other files in a directory or archive of computer software.
+A **README** file contains information about other files in a directory or archive of computer software.
+
+<hr>
 
 ### Why should I care about a README?
 

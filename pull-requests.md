@@ -56,6 +56,37 @@ and make that clear in your comments and descriptions
 * Add some screenshots for your front-end changes
 * You can also add GIFs of the interactions
 
+<hr>
+
+## BotBros Pull Request Template
+
+```markdown
+## Summary
+
+Include a summary about the feature you're requesting to merge.
+
+## Branch, Route and Directory
+
+**Branch:** *feature/SP-001-SS*  
+
+**Routes: (Temporarily)**  
+
+* List your routes and functions like the example below
+* _/api/v1/positions_ - `GET` - index()
+
+**Directories**:  
+
+* Same with routes, list the directories affected in _italics_
+
+## Key Tasks/Features of the Branch
+
+- [x] List your key tasks as to do list within the pull request
+
+## Note to Reviewers / Testers
+
+* Put pointers in unlisted bullet format
+```
+
 ## Interested in writing the perfect pull request? Learn more!
 
 * [Written Unwritten Guide for Pull Requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)

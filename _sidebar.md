@@ -6,6 +6,7 @@
 
 * Starters
 
+  * [Resource as Abstraction](resource.md)
   * [Understanding REST](rest.md)
 
 * Practices

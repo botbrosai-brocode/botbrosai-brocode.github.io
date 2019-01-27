@@ -4,6 +4,10 @@
   * [Pull Requests](pull-requests.md)
   * [Code Review](code-review.md)
 
+* Starters
+
+  * [Understanding REST](rest.md)
+
 * Practices
 
   * [Code <sup style="color:gray">(soon)<sup>](code.md)

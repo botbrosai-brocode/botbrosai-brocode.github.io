@@ -29,3 +29,8 @@ The state of resource at any particular timestamp is known as _resource represen
 
 The data format of a representation is known as a _media type_. The media type identifies a specification that defines how a representation is to be processed. A truly RESTful API looks like hypertext. Every addressable unit of information carries an address, either explicitly (e.g., link and id attributes) or implicitly (e.g., derived from the media type definition and representation structure).
 
+Also, the resource representations across system should follow certain guidelines such as naming conventions, link formats or data format (xml or/and json).
+
+All resources should be accessible through a common approach such as HTTP GET and similarly modified using a consistent approach.
+
+> Once a developer becomes familiar with one of your API, he should be able to follow the similar approach for other APIs.

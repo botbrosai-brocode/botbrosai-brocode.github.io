@@ -1,4 +1,4 @@
-# Resource as Abstraction
+# Resource as Abstraction of Information
 
 > Before proceeding to REST, you should know about its selected abstraction, resources
 
